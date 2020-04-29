@@ -18,7 +18,7 @@ class Triangle
       binding.pry
     elsif @side1
     
-  
+  end 
   end 
   
   class TriangleError < StandardError
