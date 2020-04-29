@@ -15,6 +15,7 @@ class Triangle
     
     if @side1 + @side2 == @side3
       :equilateral
+      binding.pry
     elsif @side1
     
   
